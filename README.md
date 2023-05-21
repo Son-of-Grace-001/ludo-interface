@@ -1,1 +1,1 @@
-# ludo-interface
+this repository is a simple design of a ludo interface
